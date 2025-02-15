@@ -9,4 +9,6 @@ Modeling and Analysis of the Mass-Spring-Damper System with Lagrange Equations: 
 
 🟢 The frequency domain graphs play a critical role in understanding and designing systems or signals, especially in fields like engineering and signal processing, compared to time domain graphs.
 
+![image](https://github.com/user-attachments/assets/d6b8793e-4c02-492e-9545-5634d8d28759)
+
 
